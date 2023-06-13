@@ -1,10 +1,10 @@
 Project Title
 
-Simple overview of use/purpose.
+International Travel Agency
 
 Description
 
-international travel agency
+It is website that provides the availability of taking international fligts
 
 Getting Started
 
